@@ -1,0 +1,6 @@
+folder_in: "/home/user/fld_in/"
+folder_out: "/home/user/fld_out/"
+folder_fld: "/home/user/fld/"
+count: 3
+bs: 1M
+type_arch: zip
